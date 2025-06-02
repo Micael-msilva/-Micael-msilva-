@@ -6,4 +6,4 @@
 ### Certificações Cisco
 [![Cisco Linux Essentials Certificate](https://github.com/user-attachments/assets/dbf26f94-a894-4761-9e4e-79a2ae2b0643)](https://www.credly.com/badges/98780d36-a63f-4bf8-8303-b09793f919b6/public_url)
 
-[![Cisco Introduction to Cybersecurity](https://github.com/user-attachments/assets/9f8bf98f-a0a8-441a-a632-dfb6471922b3)](https://www.credly.com/badges/aaeb0fcb-b846-477c-80c1-d5bc272dbe7e/public_url)
+[![Cisco Introduction to Cybersecurity]([https://github.com/user-attachments/assets/9f8bf98f-a0a8-441a-a632-dfb6471922b3](https://github.com/user-attachments/assets/2b6e42c7-d37a-43a3-99c5-d1e67d738a22))](https://www.credly.com/badges/aaeb0fcb-b846-477c-80c1-d5bc272dbe7e/public_url)
